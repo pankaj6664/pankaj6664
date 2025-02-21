@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj6664" alt="pankaj6664" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://pankaj6664.github.io/Portfolio/](https://pankaj6664.github.io/Portfolio/)
+- 👨‍💻 About me [https://pankaj6664.github.io/Portfolio/](https://pankaj6664.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, Spring Boot, Microservices**
 
