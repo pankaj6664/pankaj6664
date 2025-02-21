@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj6664&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj6664" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj6664" alt="pankaj6664" /></a> </p>
 
 - 👨‍💻 About me [https://pankaj6664.github.io/Portfolio/](https://pankaj6664.github.io/Portfolio/)
 
