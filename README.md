@@ -6,7 +6,7 @@
 
 - 👨‍💻 About me [https://pankaj6664.github.io/Portfolio/](https://pankaj6664.github.io/Portfolio/)
 
-- 💬 Ask me about **Java, Spring Boot, Microservices**
+- 💬 Ask me about **Java, Spring Boot, Microservices, SQL**
 
 - 📫 How to reach me **pankajpawar5259@gmail.com**
 
